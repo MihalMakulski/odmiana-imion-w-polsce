@@ -1,4 +1,4 @@
-# Odmniana imion występujących w Polsce
+# Odmiana imion występujących w Polsce
 
 ## Źródło imion
 
